@@ -2783,4 +2783,12 @@ footer .copyright span:last-child::after {
 	background: #000000;
 }
 
+.project-heading {
+	color: white !important;
+}
+
+.project-heading:hover {
+	text-decoration: underline;
+}
+
 /*# sourceMappingURL=main.css.map */
